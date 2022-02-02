@@ -17,10 +17,10 @@ Zombie process 51804 created.
 gcc P2.c -o P2
 ```
 > ./P2 4
-Orphan process 50684 created.
-Orphan process 50685 created.
-Orphan process 50686 created.
-Orphan process 50687 created.  
+Orphan process 52229 created.
+Orphan process 52230 created.
+Orphan process 52231 created.
+Orphan process 52232 created.  
 ```
 ![](P2.png)
 ---
